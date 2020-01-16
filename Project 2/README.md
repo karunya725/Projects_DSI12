@@ -59,4 +59,10 @@ To create the final model, Lasso regression was used to extract more optimal var
     
 This time, the linear regression model gave the highest R squared score after cross validation, thus also proving that our model is neither overfitted nor underfitted. It was just right. 
      
-This model was used to run our test dataset which gaave our predicted Sale Price. Uploading these predicted values to Kaggle gave a score of 32K
+This model was used to run our test dataset which gave our predicted Sale Price. Uploading these predicted values to Kaggle gave a score of 32K
+
+### 5. Refining model
+
+The variables extracted from Lasso previously went through feature engineering process again. This time with the goal of reducing the number of nominal variables by converting them into ordinal variables. Box plot were plotted to see if median price changes for various sub categories of variables. From there, if there is a correlation between price increase/decrease and the sub categories, those variables were converted to ordinal undergoing steps 1 to 5 again for these few variables. 
+
+This gave a slighly better model. This model was used to run our test dataset which gave our predicted Sale Price. Uploading these predicted values to Kaggle gave a score of 31.6K
