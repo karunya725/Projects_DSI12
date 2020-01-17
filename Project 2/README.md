@@ -73,7 +73,7 @@ After modelling and refining, I can conclude that the main factors that affect S
 
 When collecting data for analysis, real estate personel should focus on these factors and quality condition mainly. Also the real estate personel can use these feature selection to take note of what needs to be upgraded before putting the house up for sale 
 
-As for future recommendation, it might be useful to take note of amneties near the houses and the proximity of the houses to the schools and business districts. Also look at the potential for rental. This is because there will be high demand rental here or/ and demand for small houses (due to many singles relocating there). Furthermore, House prices might increase as commute to work decreas given that many residents' main mode of transport is public transport. 
+As for future recommendation, it might be useful to take note of amneties near the houses and the proximity of the houses to the schools and business districts as Ames is mainly a white collar town and populated by college students. Also looking at the potential for rental will be usefil. This is because there will be high demand rental here or/ and demand for small houses (due to many singles relocating there). Furthermore, House prices might increase as commute to work decreas given that many residents' main mode of transport is public transport. 
 
 ### External readings 
 https://www.realtor.com/realestateandhomes-search/Ames_IA/housing-market 
